@@ -42,7 +42,7 @@ This project is a basic informational website powered by a Node.js server using 
 
    - `http://localhost:8080 (or the port specified in the .env file) for the homepage.`
 
-   - `http://localhost:3000/about for the about page.`
-   - `http://localhost:3000/contact for the contact page.`
-   - `http://localhost:3000/contact-me redirects to /contact.`
+   - `http://localhost:8080/about for the about page.`
+   - `http://localhost:8080/contact for the contact page.`
+   - `http://localhost:8080/contact-me redirects to /contact.`
    - `Any other URL will display the custom 404 error page.`
